@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+select,
+option {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-button {
+    @apply bg-white p-2 drop-shadow;
+}
+
+.card-button.active {
+    @apply bg-blue-600 text-white;
+}
+
+.radio-input {
+    @apply w-4 h-4 text-blue-600 bg-gray-100 border-gray-300;
+}
+
+.radio-input:focus {
+    @apply ring-blue-500 ring-2
+}
+
+.radio-label {
+    @apply py-3 ml-2 w-full text-sm font-medium text-gray-900
+}
+
+.hero {
+    @apply pt-20 text-white relative -z-10;
+    height: 80vh;
+}
+
+.hero::before {
+    content: "";
+    background-color: blue;
+    background-blend-mode: multiply;
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.90;
+    background-position-y: bottom;
+}

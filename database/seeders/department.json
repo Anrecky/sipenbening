@@ -1,0 +1,695 @@
+[
+    {
+        "name": "DINAS PU, PENATAAN RUANG",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN PERTANAHAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PENDIDIKAN KEPEMUDA DAN OLAHRAGA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PERIKANAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS KOMUNIKASI INFORMATIKA DAN STATISTIK",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS SOSIAL",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PARIWISATA DAN KEBUDAYAAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PANGAN DAN PERTANIAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS TENAGA KERJA, PERINDUSTRIAN DAN PERDAGANGAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS KESEHATAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PENANAMAN MODAL, PELAYANAN PERIZINAN TERPADU SATU PINTU, KOPERASI, USAHA KECIL DAN MENENGAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS LINGKUNGAN HIDUP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PANGAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS KEARSIPAN DAN PERPUSTAKAAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PENGENDALIAN PENDUDUK, KB, PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SATUAN POLISI PAMONG PRAJA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SEKRETARIAT DPRD",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "INSPEKTORAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BADAN PENDAPATAN, PENGELOLAAN KEUANGAN DAN ASET DAERAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BADAN PENGELOLAAN PAJAK DAN RETRIBUSI DAERAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SDMD",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BADAN PERENCANAAN PEMBANGUNAN DAERAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KANTOR KESATUAN BANGSA & POLITIK",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "RSUD DEPATI BAHRIN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ADM. PEMERINTAHAN UMUM SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN UMUM DAN RUMAH TANGGA SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ADM. PEMBANGUNAN SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ORGANISASI SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ADM. PEREKONOMIAN SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ADM. PELAYANAN PENGADAAN BARANG DAN JASA SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN ADM. KESRA & KEMASYARAKATAN SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN KEUANGAN DAN ASET SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN  KEPROTOKOLAN SETDA",
+        "address": "Jl. A. Yani (jalur II), SUNGAILIAT",
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN HUKUM & HAM SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN SUNGAILIAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN PEMALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN MERAWANG",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN MENDOBARAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN PUDING BESAR",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN RIAU SILIP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN BAKAM",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KECAMATAN BELINYU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SEKRETARIAT DAERAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD SUNGAILIAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD PUDING BESAR",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD MENDO BARAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD BAKAM",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD MERAWANG",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD BELINYU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD PEMALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD RIAU SILIP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SPNF SKB Sungailiat",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BNN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.SUNGAILIAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.BELINYU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.MERAWANG",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.MENDO BARAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.PEMALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.BAKAM",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.RIAU SILIP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT BP2RD KEC.PUDING BESAR",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS GUNUNG MUDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS BELINYU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS BAKAM",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS SUNGAILIAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS PENAGAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS KENANGA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS PEMALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS RIAU SILIP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS PUDING BESAR",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS PETALING",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "RSD.EKO MAULANA ALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPT PSC 119",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS BATURUSA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "RSUD SJAFRIE RACHMAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "PUSKESMAS SINAR BARU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP MERAWANG",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP RIAU SILIP",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP PEMALI",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP BELINYU",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP SUNGAILIAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP PUDING BESAR",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP MENDO BARAT",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BPP BAKAM",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD PUSAT KESEHATAN HEWAN",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD BALAI PEMBIBITAN TERNAK",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "UPTD BALAI BENIH UTAMA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BAGIAN UMUM KEBERSIHAN SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "MESS MELATI SEKDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "MESS ANGGREK SEKDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "GEDUNG SEPINTU SEDULANG SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SEKRETARIAT GOW SETDA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SEKRETARIAT DHARMA WANITA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "SEKRETARIAT PKK BANGKA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "KEBUN HIDROPONIK BANGKA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA KAB.BANGKA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "DINAS PERHUBUNGAN KAB.BANGKA",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    },
+    {
+        "name": "BADAN PENANGGULANGAN BENCANA DAERAH",
+        "address": null,
+        "phone": null,
+        "email": null,
+        "abbreviation": null
+    }
+]
