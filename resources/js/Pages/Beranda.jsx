@@ -78,7 +78,7 @@ export default function Beranda(props) {
                                 <ul className="items-center w-full text-sm font-medium text-gray-900 bg-white rounded-lg border border-gray-200 sm:flex dark:bg-gray-700 dark:border-gray-600 dark:text-white md:grid md:grid-cols-4">
                                     {props?.categories && props.categories.map((category, idx) => <li className={`w-full ${idx > 3 ? "" : "border-b"} border-gray-200 ${idx == 3 || idx == 6 ? "" : "sm:border-r"} dark:border-gray-600`} key={`category-key-${idx}`}>
                                         <div className="flex items-center pl-3">
-                                            <input onChange={e => updateFormState({ categoryId: e.target.value })} type="radio" value={category?.id} defaultChecked={idx == 0 ? true : false} className="radio-input dark: focus:ring-blue-600 dark:ring-offset-gray-700  dark:bg-gray-600 dark:border-gray-500" />
+                                            <input onChange={e => updateFormState({ categoryId: e.target.value })} type="radio" checked={formState.categoryId == category?.id} value={category?.id} className="radio-input dark: focus:ring-blue-600 dark:ring-offset-gray-700  dark:bg-gray-600 dark:border-gray-500" />
                                             <label htmlFor={category?.name} className="radio-label dark:text-gray-300">{category?.name}</label>
                                         </div>
                                     </li>)}
