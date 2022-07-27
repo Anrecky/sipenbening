@@ -11,6 +11,9 @@ class ConflictOfInterest extends Model
     protected $casts = [
         'completed' => 'boolean',
     ];
+
+    protected $fillable = ['title', 'description', 'department_id'];
+
     protected static function booted()
     {
         static::updating(function ($conflictOfInterest) {
@@ -27,6 +30,10 @@ class ConflictOfInterest extends Model
     public function categories()
     {
         return $this->belongsToMany(Category::class);
+    }
+    public function attachments()
+    {
+        return $this->hasMany(Attachment::class);
     }
     public function scopeReceivedWeek($query, $last = false)
     {

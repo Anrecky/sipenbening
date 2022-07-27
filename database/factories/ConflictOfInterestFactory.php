@@ -15,17 +15,14 @@ class ConflictOfInterestFactory extends Factory
         $date_finished = $this->faker->dateTimeInInterval((Carbon::parse($date_received)->subDays(1)), '-10 months');
         $randIsSelf = Arr::random(["yes", "no", 'unknown']);
 
-        $evalRecom = new stdClass();
-        $evalRecom->evaluation = $this->faker->text();
-        $evalRecom->recommendation = $this->faker->text();
-
         return [
             'title' => $this->faker->unique()->sentence(),
             'description' => $this->faker->text(),
             'date_received' => $date_received,
             'date_finished' => $date_finished,
             'identification' => $this->faker->text(),
-            'evaluation_recommendation' =>  json_encode($evalRecom),
+            'evaluation' =>  $this->faker->text(),
+            'recommendation' =>  $this->faker->text(),
             'is_self' => $randIsSelf,
             'completed' => $this->faker->boolean()
         ];

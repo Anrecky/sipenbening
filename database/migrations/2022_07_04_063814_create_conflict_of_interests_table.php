@@ -19,10 +19,11 @@ return new class extends Migration
             $table->text('description');
             $table->enum('is_self', ["yes", "no", 'unknown'])->default('unknown');
             $table->boolean('completed')->default(false);
-            $table->dateTime('date_received');
+            $table->dateTime('date_received')->default(now());
             $table->dateTime('date_finished')->nullable();
             $table->text('identification')->nullable();
-            $table->json('evaluation_recommendation')->nullable();
+            $table->text('evaluation')->nullable();
+            $table->text('recommendation')->nullable();
             $table->foreignId('department_id')->constrained()->onUpdate('cascade')->onDelete('cascade');
             $table->timestamps();
         });
